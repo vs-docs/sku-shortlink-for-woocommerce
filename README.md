@@ -1,3 +1,7 @@
+---
+description: Add Product SKU value in woocommerce products url
+---
+
 # Intro
 
 This handy plugin might just be what you have searched for. It will create URL Aliases for your WooCommerce products so you could still have your nicely Search Engine Optimized links and at the same time completely custom SKU based URLs for use in Social Media and e-quotes still linking to the same product.
