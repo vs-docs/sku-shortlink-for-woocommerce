@@ -5,8 +5,6 @@
 
 ## Purchase / Support
 
----
-
 * [Buy Now](https://1.envato.market/skusfw)
 * [Support](https://support.varunsridharan.in)
 
