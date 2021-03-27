@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.5.4 - 27/03/2021
+* Plugin not working when custom product base is set fixed.
+
 ## 1.5.3 - 26/03/2021
 * Updated VSP Framework To `0.8.9.8`
 
